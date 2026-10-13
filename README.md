@@ -1,4 +1,4 @@
-# Working with Docker with MySQL and Grafana docker-images to setup monitoring dashboard
+# Docker Project with MySQL and Grafana docker-images to setup monitoring dashboard
 ---
 
 ## Pre-requisite
